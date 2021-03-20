@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="https://github.com/Lubov93/rest_api_blog/blob/master/blog/static/blog/icons/code-solid.svg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Lubov93/telegram_currency_exchange/blob/main/data/1200px-Telegram_X_2019_Logo.svg.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">TELEGRAM CURRENCY BOT</h3>
@@ -10,7 +10,7 @@
   <p align="center">
     Telegram currency bot
     <br />
-    <a href="https://github.com/Lubov93/rest_api_blog"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Lubov93/telegram_currency_exchange"><strong>Explore the docs »</strong></a>
     <br />
 <a href="https://t.me/pythonDevLuba">Report Bug</a>
     <br />
@@ -40,7 +40,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![](https://github.com/Lubov93/rest_api_blog/blob/master/blog/static/111.jpg)
+![](https://github.com/Lubov93/telegram_currency_exchange/blob/main/data/444.jpg)
 Telegram Bot API Python. Lets you build Telegram Bots easily! Supports matplotlib
 
 <!-- GETTING STARTED -->
@@ -69,8 +69,8 @@ To get a local copy up and running follow these simple example steps.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-![]()
-![]()
+![](https://github.com/Lubov93/telegram_currency_exchange/blob/main/data/555.jpg)
+![](https://github.com/Lubov93/telegram_currency_exchange/blob/main/data/666.jpg)
 
 
 <!-- CONTACT -->
